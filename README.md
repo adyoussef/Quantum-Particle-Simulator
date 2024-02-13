@@ -9,7 +9,7 @@
 - Particle.py: Manages particle properties and states within quantum simulations.
 - ParticleDataBase.py: Interfaces with ParticleData.xml to supply particle data essential for simulations.
 - ParticleData.xml: A data repository containing detailed attributes of various particles and quantum numbers.
-- utils.py: Offers essential utilities and mathematical functions supporting simulations.
+- utils.py: Offers essential utilities and mathematical functions like FourVector and Matrix classes illustrated in [Spacetime-Calc-Engine](https://github.com/adyoussef/Spacetime-Calc-Engine).
 - Integrator.py: Implements numerical integration methods for dynamic simulations.
 - DiracMatrices.py: Handles computations involving Dirac matrices, pivotal in quantum mechanics.
 - CrossSection.py: Facilitates the calculation of interaction cross-sections among  particles.
